@@ -8,7 +8,7 @@ I am Juan Vásquez, a 2nd-year MsC student at the Applied Mathematics and System
 
 My adviser is [Dr. Gemma Bel Enguix](https://scholar.google.com/citations?hl=en&user=RXWYz10AAAAJ). 
 
-I am currently working on two projects regarding the detection and mitigation of biases in language models. 
+I am currently working on two projects regarding the detection and mitigation of biases in large language models. 
 
 My first ongoing project focuses on the detection of homophobia in Mexican Spanish, while the second one aims at classifying heteronormative language in English. I have written two papers --one for each project-- that have already been accepted at two conferences, and will be published soon.
 
