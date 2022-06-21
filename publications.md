@@ -18,6 +18,4 @@ permalink: /publications/
 
 ## 2021
 
-[Bert-based Approach for Sentiment Analysis of Spanish Reviews from TripAdvisor](http://ceur-ws.org/Vol-2943/restmex_paper6.pdf). Antonis Maronikolakis, Philipp Dufter and Hinrich Schütze. 2021. In Findings of the 2021 Conference on Empirical Methods in Natural Language Processing.
-
-Juan Vásquez, Helena Gómez-Adorno, Gemma Bel-Enguix. 2021. In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2021) co-located with the Conference of the Spanish Society for Natural Language Processing (SEPLN 2021).
+[Bert-based Approach for Sentiment Analysis of Spanish Reviews from TripAdvisor](http://ceur-ws.org/Vol-2943/restmex_paper6.pdf). Juan Vásquez, Helena Gómez-Adorno, Gemma Bel-Enguix. 2021. In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2021) co-located with the Conference of the Spanish Society for Natural Language Processing (SEPLN 2021).
