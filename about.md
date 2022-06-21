@@ -8,11 +8,11 @@ I am Juan Vásquez, a 2nd-year MsC student at the Applied Mathematics and System
 
 My adviser is [Dr. Gemma Bel Enguix](https://scholar.google.com/citations?hl=en&user=RXWYz10AAAAJ). 
 
-I am currently working on the detection and mitigation of gender biases in language models. 
+I am currently working on two projects regarding the detection and mitigation of biases in language models. 
 
-My first ongoing project focuses on detection of homophobia in Mexican Spanish, while the second one aims at classifying heteronormative language in English. I have written two papers --one for each project-- that will be published soon.
+My first ongoing project focuses on the detection of homophobia in Mexican Spanish, while the second one aims at classifying heteronormative language in English. I have written two papers --one for each project-- that have already been accepted at two conferences, and will be published soon.
 
-In the past, I have worked on paraphrase detection in Spanish, a BERT-like model for the classification of TripAdvisor reviews in Spanish in five classes, and the implementation of LIME for analyzing how a BERT classifier generates its predictions on a novel corpus for happiness classification of tweets in Spanish.
+In the past, I have worked on paraphrase detection in Spanish; a BERT-like model for the classification of TripAdvisor reviews in Spanish in five classes; and the implementation of LIME for visualizing how a BERT classifier generates its predictions on a novel corpus for happiness classification of tweets in Spanish.
 
 You can find my resume [here](https://github.com/juanmvsa/juanmvsa.github.io/blob/master/cv.pdf).
 
