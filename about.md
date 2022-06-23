@@ -12,9 +12,6 @@ My first ongoing project focuses on the detection of LGBTphobia in Mexican Spani
 
 I am very interested in D&I in AI, data engineering, design of explainable algorithms, and applied AI for the understanding of social phenomena.
 
-In the past, I have worked on paraphrase detection in Spanish; a BERT-like model for the classification of TripAdvisor reviews in Spanish in five classes; and the implementation of the LIME algorithm for visualizing how a BERT model fine-tuned on a novel corpus for happiness classification of tweets in Spanish assigns classes to the test samples. 
+In the past, I have worked on [paraphrase detection in Spanish](https://sites.google.com/view/par-mex/home); a [BERT-like model for the classification of TripAdvisor reviews in Spanish in five classes](https://github.com/juanmvsa/Sentiment-Analysis-TripAdvisor-Spanish); and the implementation of the [LIME algorithm for visualizing how a BERT model fine-tuned on a novel corpus for happiness classification of tweets in Spanish assigns classes to the test samples](https://github.com/juanmvsa/BertClassifierMultilingual). 
 
-You can find my resume [here](https://github.com/juanmvsa/juanmvsa.github.io/blob/master/docs/cv.pdf).
-
-
-<div>Icon made from <a href="http://www.onlinewebfonts.com/icon">Icon Fonts</a> is licensed by CC BY 3.0</div>
+You can find my resume [here](https://juanmvsa.github.io/docs/cv.pdf).
