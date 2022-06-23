@@ -8,7 +8,7 @@ I am Juan Vásquez, a 2nd-year MsC student in Computer Science with specializati
 
 My adviser is [Dr. Gemma Bel Enguix](https://scholar.google.com/citations?hl=en&user=RXWYz10AAAAJ), and I am currently working on two projects regarding the detection and mitigation of biases in large language models. 
 
-My first ongoing project focuses on the detection of LGBTphobia in Mexican Spanish, while the second one aims at [classifying heteronormative language in English](https://juanmvsa.github.io/docs/HeteroCorpus-%20A%20Corpus%20for%20Heteronormative%20Language%20Detection.pdf). I have written two papers --one for each project-- that have already been accepted at two different conferences, and will be published later this year.
+My first ongoing project focuses on the detection of LGBTphobia in Mexican Spanish, while the second one aims at [classifying heteronormative language in English](https://github.com/juanmvsa/HeteroCorpus). I have written two papers --one for each project-- that have already been accepted at two different conferences, and will be published later this year.
 
 I am very interested in D&I in AI, data engineering, design of explainable algorithms, and applied AI for the understanding of social phenomena.
 
