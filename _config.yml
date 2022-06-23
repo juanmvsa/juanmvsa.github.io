@@ -1,7 +1,7 @@
 # Site settings
-title_left    : "jv"
+title_left    : "👨🏽‍💻"
 title_right   : "" # default: ""
-description   : "nlp"
+description   : "ai, nlp"
 keywords      : "MsC, NLP, AI, Juan Vásquez"
 url           : https://juanmvsa.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
