@@ -13,7 +13,7 @@ permalink: /publications/
 
 - [Overview of PARMEX at Iberlef 2022: Paraphrase Identification in Spanish shared task]. Gemma Bel-Enguix , Gerardo Sierra, Helena Gómez-Adorno, Juan-Manuel Torres-Moreno, Juan Vásquez and German Ortíz. 2022. In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2022) co-located with the Conference of the Spanish Society for Natural Language Processing (SEPLN 2022).
 
-- [#happiness in Twitter: What does it really represent?]. Gemma Bel-Enguix, Helena Gómez-Adorno, Karla Mendoza Grageda, Grigori Sidorov and Juan Vásquez. 2022 in Linguamatica.
+- [#happiness in Twitter: What does it really represent?]. Gemma Bel-Enguix, Helena Gómez-Adorno, Karla Mendoza Grageda, Grigori Sidorov and Juan Vásquez. 2022. In Linguamatica.
 
 
 ## 2021
