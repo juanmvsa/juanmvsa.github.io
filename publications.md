@@ -9,7 +9,7 @@ permalink: /publications/
 
 - [Detection of Online LGBTphobia in Mexican Spanish]. Juan Vásquez, Gemma Bel-Enguix, Scott Thomas Andersen. 2022.
 
-- [HeteroCorpus: A Corpus for Heteronormative Language Detection]. Juan Vásquez, Gemma Bel-Enguix, Scott-Thomas Andersen, Sergio-Luis Ojeda-Trueba. 2022. In Proceedings of the The Workshop on Gender Bias in Natural Language Processing.
+- [HeteroCorpus: A Corpus for Heteronormative Language Detection](https://juanmvsa.github.io/docs/HeteroCorpus-%20A%20Corpus%20for%20Heteronormative%20Language%20Detection.pdf). Juan Vásquez, Gemma Bel-Enguix, Scott-Thomas Andersen, Sergio-Luis Ojeda-Trueba. 2022. In Proceedings of the The Workshop on Gender Bias in Natural Language Processing.
 
 - [Overview of PARMEX at Iberlef 2022: Paraphrase Identification in Spanish shared task]. Gemma Bel-Enguix , Gerardo Sierra, Helena Gómez-Adorno, Juan-Manuel Torres-Moreno, Juan Vásquez and German Ortíz. 2022. In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2022) co-located with the Conference of the Spanish Society for Natural Language Processing (SEPLN 2022).
 
