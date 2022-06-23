@@ -14,6 +14,6 @@ I am very interested in D&I in AI, data engineering, design of explainable algor
 
 In the past, I have worked on paraphrase detection in Spanish; a BERT-like model for the classification of TripAdvisor reviews in Spanish in five classes; and the implementation of the LIME algorithm for visualizing how a BERT model fine-tuned on a novel corpus for happiness classification of tweets in Spanish assigns classes to the test samples. 
 
-You can find my resume [here](https://drive.google.com/file/d/1kfwbttPgZ-rRHCYFGOMUpYo5Je0VN47v/view?usp=sharing).
+You can find my resume [here]().
 
-In my free time, I like reading, watching films, and working out.
+
