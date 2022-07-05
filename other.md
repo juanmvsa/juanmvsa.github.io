@@ -7,7 +7,7 @@ permalink: /other/
 
 ## 2022
 
-- **Attending student** at the [Caltech Neurosymbolic Programming Summer School](http://www.neurosymbolic.org/summerschool.html). *July 2022*.
+- **Attending student** at the [Caltech Neurosymbolic Programming Summer School](http://www.neurosymbolic.org/summerschool.html). *July 11th-13rd, 2022*.
 - **Presenter** of the paper "HeteroCorpus: A Corpus for Heteronormative Language Detection", at The 4th Workshop on Gender Bias for Natural Language Processing located at NAACL in Seattle, USA. *July 15, 2022*.
 
 ## 2021
