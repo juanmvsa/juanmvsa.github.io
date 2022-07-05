@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: about me 👋🏾 
+permalink: /about me 👋🏾 /
 ---
 
 I am Juan Vásquez, a 2nd-year **MsC student in Computer Science with specialization in Artificial Intelligence** at the Applied Mathematics and Systems Research Institute (Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas), a research institute of the National Autonomous University of Mexico (Universidad Nacional Autónoma de México).
