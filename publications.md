@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 
-# 2022
+## 2022
 
 - [Detection of Online LGBTphobia in Mexican Spanish]. Juan Vásquez, Gemma Bel-Enguix, Scott Thomas Andersen. 2022.
 
@@ -16,6 +16,6 @@ permalink: /publications/
 - [#happiness in Twitter: What does it really represent?](https://linguamatica.com/index.php/linguamatica/article/view/342/481). Gemma Bel-Enguix, Helena Gómez-Adorno, Karla Mendoza Grageda, Grigori Sidorov and Juan Vásquez. 2022. Linguamática, 14(1), 3-15. https://doi.org/10.21814/lm.14.1.342
 
 
-# 2021
+## 2021
 
 - [Bert-based Approach for Sentiment Analysis of Spanish Reviews from TripAdvisor](http://ceur-ws.org/Vol-2943/restmex_paper6.pdf). Juan Vásquez, Helena Gómez-Adorno, Gemma Bel-Enguix. 2021. In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2021) co-located with the Conference of the Spanish Society for Natural Language Processing (SEPLN 2021).
