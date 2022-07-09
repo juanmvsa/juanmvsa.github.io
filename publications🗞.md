@@ -7,7 +7,7 @@ permalink: /publications🗞/
 
 ## 2022
 
-- [Detection of Online LGBTphobia in Mexican Spanish]. Juan Vásquez, Gemma Bel-Enguix, Scott Thomas Andersen. 2022.
+- [How Homo(phobic) is Mexico? Homo-MEX: A Novel Corpus for LGBTQ-phobia Detection in Mexican Spanish]. Juan Vásquez, Gemma Bel-Enguix, Scott Thomas Andersen, Braulio Santiago. 2022.
 
 - [HeteroCorpus: A Corpus for Heteronormative Language Detection]. Juan Vásquez, Gemma Bel-Enguix, Scott-Thomas Andersen, Sergio-Luis Ojeda-Trueba. 2022. In Proceedings of the The Workshop on Gender Bias in Natural Language Processing.
 
