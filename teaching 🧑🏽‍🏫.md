@@ -13,4 +13,4 @@ permalink: /teaching🧑🏽‍🏫/
 ## 2021
 
 - [Introduction to Natural Language Processing with Python I](https://juanmvsa.github.io/docs/Curso%20I.pdf) - Faculty of Engineering at UNAM (September 2021 - June 2022)
-  - Materials created for the course, available available [here](https://github.com/juanmvsa/CursoPLN-UNAM) (in Spanish).
+  - Materials created for the course, available [here](https://github.com/juanmvsa/CursoPLN-UNAM) (in Spanish).

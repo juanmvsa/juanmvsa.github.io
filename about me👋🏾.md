@@ -18,6 +18,6 @@ In the past, I have worked on:
 - a [BERT-like model for the classification of TripAdvisor reviews in Spanish in five classes](https://github.com/juanmvsa/Sentiment-Analysis-TripAdvisor-Spanish).
 - the implementation of the [LIME algorithm for visualizing how a BERT model fine-tuned on a novel corpus for happiness classification of tweets in Spanish assigns classes to the test samples](https://github.com/juanmvsa/BertClassifierMultilingual).
 
-In my free time I enjoy playing J-RPGs, watching horror films and reading queer literature.
+In my free time I enjoy playing J-RPGs, watching horror films and reading contemporary latin-american literature.
 
 You can find my **resume** [here](https://juanmvsa.github.io/docs/cv.pdf).

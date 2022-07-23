@@ -1,7 +1,7 @@
 ---
 layout: page
 title: cv 📝
-permalink: /cv📝/
+permalink: /c   v📝/
 ---
 
 
