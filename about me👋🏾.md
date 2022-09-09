@@ -8,7 +8,7 @@ I am Juan Vásquez (he/him), a 2nd-year **MsC student in Computer Science with s
 
 My adviser is [Dr. Gemma Bel Enguix](https://scholar.google.com/citations?hl=en&user=RXWYz10AAAAJ), and I am currently working on two projects regarding the detection and mitigation of biases in large language models.
 
-My first ongoing project focuses on the detection of LGBTphobia in Mexican Spanish, while the second one aims at implementing [formal semantics](https://eecoppock.info/bootcamp/Invitation_to_formal_semantics-2022Jan18.pdf) into neural language models, in order to see if propositional, predicate and high-order logic can help us create better language models. 
+My first ongoing project focuses on the detection of LGBTphobia in Mexican Spanish, while the second one aims at implementing [formal semantics](https://eecoppock.info/bootcamp/Invitation_to_formal_semantics-2022Jan18.pdf) into neural language models, in order to see if propositional, predicate and high-order logics can help us create better language models. 
 
 I am very **interested in** D&I in AI, data engineering, design of explainable algorithms, and applied AI for the understanding of social phenomena.
 
