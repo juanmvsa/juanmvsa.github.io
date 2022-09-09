@@ -11,9 +11,9 @@ permalink: /publications🗞/
 
 - [Overview of PARMEX at Iberlef 2022: Paraphrase Identification in Spanish shared task](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IoQWQakAAAAJ&sortby=pubdate&citation_for_view=IoQWQakAAAAJ:UeHWp8X0CEIC). Gemma Bel-Enguix, Gerardo Sierra, Helena Gómez-Adorno, Juan-Manuel Torres-Moreno, Jesús-Germán Ortiz-Barajas †, **J. Vásquez †**, Overview of PAR-MEX at Iberlef 2022: Paraphrase Detection in Spanish Shared Task, Procesamiento del Lenguaje Natural 69 (2022). † equal contribution.
 
-- [HeteroCorpus: A Corpus for Heteronormative Language Detection](https://aclanthology.org/2022.gebnlp-1.23/) **Juan Vásquez**, Gemma Bel-Enguix, Scott-Thomas Andersen, Sergio-Luis Ojeda-Trueba. 2022. In Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing (GeBNLP), pages 225–234, Seattle, Washington.
+- [HeteroCorpus: A Corpus for Heteronormative Language Detection](https://aclanthology.org/2022.gebnlp-1.23/) **Juan Vásquez**, Gemma Bel-Enguix, Scott Thomas Andersen, Sergio-Luis Ojeda-Trueba. 2022. In Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing (GeBNLP), pages 225–234, Seattle, Washington.
 
-- [#happiness in Twitter: What does it really represent?](https://linguamatica.com/index.php/linguamatica/article/view/342/481). Gemma Bel-Enguix, Helena Gómez-Adorno, Karla Mendoza Grageda, Grigori Sidorov and **Juan Vásquez**. 2022. Linguamática, 14(1), 3-15. <https://doi.org/10.21814/lm.14.1.342>
+- [#happiness in Twitter: What does it really represent?](https://linguamatica.com/index.php/linguamatica/article/view/342/481). Gemma Bel-Enguix, Helena Gómez-Adorno, Karla Mendoza-Grageda, Grigori Sidorov and **Juan Vásquez**. 2022. Linguamática, 14(1), 3-15. <https://doi.org/10.21814/lm.14.1.342>
 
 ## 2021
 
