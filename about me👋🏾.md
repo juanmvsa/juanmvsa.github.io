@@ -6,7 +6,7 @@ permalink: /about me👋🏾/
 
 I am Juan Vásquez (he/him), a 2nd-year **MsC student in Computer Science with specialization in Artificial Intelligence** at the Applied Mathematics and Systems Research Institute (Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas), a research institute of the National Autonomous University of Mexico (Universidad Nacional Autónoma de México).
 
-My adviser is [Dr. Gemma Bel Enguix](https://scholar.google.com/citations?hl=en&user=RXWYz10AAAAJ), and I am currently working on two projects regarding the detection and mitigation of biases in large language models.
+My adviser is [Dr. Gemma Bel Enguix](https://scholar.google.com/citations?hl=en&user=RXWYz10AAAAJ), and I am currently working on two projects regarding large language models.
 
 My first ongoing project focuses on the detection of LGBTphobia in Mexican Spanish, while the second one aims at implementing [formal semantics](https://eecoppock.info/bootcamp/Invitation_to_formal_semantics-2022Jan18.pdf) into neural language models, in order to see if propositional, predicate and high-order logics can help us create better language models. 
 
