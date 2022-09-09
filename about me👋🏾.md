@@ -23,6 +23,8 @@ In the past, I have worked on:
 
 ---
 
-In my free time I enjoy playing J-RPGs, watching horror films and reading contemporary latin-american literature.
+In my free time I enjoy playing J-RPGs, watching horror films and reading contemporary latin-american and queer literature.
+
+---
 
 You can find my **resume** [here](https://juanmvsa.github.io/docs/cv.pdf).
