@@ -7,7 +7,8 @@ permalink: /publications🗞/
 
 ## 2022
 
-## - [How Homo(phobic) is Mexico? Homo-MEX: A Novel Corpus for LGBTQ-phobia Detection in Mexican Spanish]. **Juan Vásquez**, Scott Thomas Andersen, Gemma Bel-Enguix, Braulio Santiago. 2022.
+## - [How Homo(phobic) is Mexico? Homo-MEX: A Novel Corpus for LGBTQ-phobia Detection in Mexican Spanish].
+## **Juan Vásquez**, Scott Thomas Andersen, Gemma Bel-Enguix, Braulio Santiago. 2022.
 
 - [Overview of PARMEX at Iberlef 2022: Paraphrase Identification in Spanish shared task](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IoQWQakAAAAJ&sortby=pubdate&citation_for_view=IoQWQakAAAAJ:UeHWp8X0CEIC). Gemma Bel-Enguix, Gerardo Sierra, Helena Gómez-Adorno, Juan-Manuel Torres-Moreno, Jesús-Germán Ortiz-Barajas †, **J. Vásquez †**, Overview of PAR-MEX at Iberlef 2022: Paraphrase Detection in Spanish Shared Task, Procesamiento del Lenguaje Natural 69 (2022). † equal contribution.
 
