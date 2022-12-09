@@ -7,6 +7,7 @@ permalink: /other work🦹🏽‍♂️/
 
 ## 2022
 
+
 - **[Presenter](https://juanmvsa.github.io/docs/const_heterocorpus_gil.pdf)** of the *HeteroCorpus* at the Language Engineering Group, UNAM. *September 29th, 2022*
 
 - **[Presenter](https://juanmvsa.github.io/docs/naacl_2022.pdf)** of the paper *HeteroCorpus: A Corpus for Heteronormative Language Detection*, at [The 4th Workshop on Gender Bias for Natural Language Processing](https://genderbiasnlp.talp.cat/) located at NAACL in Seattle, USA. *July 15, 2022*.
