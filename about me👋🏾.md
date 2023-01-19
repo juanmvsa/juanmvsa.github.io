@@ -8,18 +8,19 @@ I am Juan Vásquez (he/him), a 2nd-year **MsC student in Computer Science with s
 
 My adviser is [Dr. Gemma Bel Enguix](https://scholar.google.com/citations?hl=en&user=RXWYz10AAAAJ), and I am currently working on two projects regarding large language models.
 
-My first ongoing project focuses on the detection of LGBTphobia in Mexican Spanish, while the second one aims at implementing [formal semantics](https://eecoppock.info/bootcamp/Invitation_to_formal_semantics-2022Jan18.pdf) into neural language models, in order to see if propositional, predicate and high-order logics can help us create better language models. 
+My first ongoing project focuses on the detection of LGBTphobia in Mexican Spanish, while the second one aims at implementing a formal verification system for semantic analysis of tweets in Spanish. The formal verification is based on [formal semantics](https://eecoppock.info/bootcamp/Invitation_to_formal_semantics-2022Jan18.pdf), and the aim of this project is to test if by doing a formal verification of a dataset, we could improve the classification metrics of neural language models fine-tuned with such dataset.
 
-I am very **interested in** D&I in AI, data engineering, design of explainable algorithms, and applied AI for the understanding of social phenomena.
+I am very **interested in** D&I in AI, data engineering, design of explainable algorithms, and applied AI for the understanding of social and linguistic phenomena.
 
 ---
 
 In the past, I have worked on:
 
-- [paraphrase detection in Spanish](https://sites.google.com/view/par-mex/home).
-- a [BERT-like model for the classification of TripAdvisor reviews in Spanish in five classes](https://github.com/juanmvsa/Sentiment-Analysis-TripAdvisor-Spanish).
-- the implementation of the [LIME algorithm for visualizing how a BERT model fine-tuned on a novel corpus for happiness classification of tweets in Spanish assigns classes to the test samples](https://github.com/juanmvsa/BertClassifierMultilingual).
 - classification of [heteronormative language in English](https://github.com/juanmvsa/HeteroCorpus).
+- [paraphrase detection in Spanish](https://sites.google.com/view/par-mex/home).
+[comment]: <> - the implementation of the [LIME algorithm for visualizing how a BERT model fine-tuned on a novel corpus for happiness classification of tweets in Spanish assigns classes to the test samples](https://github.com/juanmvsa/BertClassifierMultilingual).
+- a [BERT-like model for the classification of TripAdvisor reviews in Spanish in five classes](https://github.com/juanmvsa/Sentiment-Analysis-TripAdvisor-Spanish).
+
 
 ---
 
