@@ -1,0 +1,10 @@
+{
+	"editor.wordWrap": "on",
+	"editor.wordWrapColumn": 30,
+	"files.autoSave": "onWindowChange",
+	"editor.fontSize": 14,
+	"workbench.cloudChanges.autoResume": "onReload",
+	"workbench.editor.restoreViewState": true,
+	"workbench.startupEditor": "none",
+	"workbench.localHistory.enabled": true
+}
