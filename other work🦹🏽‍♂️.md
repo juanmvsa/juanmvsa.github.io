@@ -5,7 +5,7 @@ permalink: /other work🦹🏽‍♂️/
 ---
 ## 2023
 
-- I'll be an **attending student** at the Lisbon Machine Learning School 2023 next July.
+- I will be an **attending student** at the Lisbon Machine Learning School 2023 next July.
 
 - **Talk**: *Hate speech detection using NLP techniques* at the Instituto de Investigaciones Matemáticas y en Sistemas (IIMAS), Universidad Nacional Autónoma de México (UNAM). *April 13th, 2023*
 

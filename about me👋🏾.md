@@ -6,11 +6,11 @@ permalink: /about me👋🏾/
 
 I am Juan Vásquez (he/him), a 2nd-year **MsC student in Computer Science with specialization in Artificial Intelligence** at the Applied Mathematics and Systems Research Institute (Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas), a research institute of the National Autonomous University of Mexico (Universidad Nacional Autónoma de México).
 
-I am currently being advised by [Dr. Gemma Bel Enguix](https://scholar.google.com/citations?hl=en&user=RXWYz10AAAAJ), and co-advised by [Dr. Karla Ramírez Pulido](https://www.fciencias.unam.mx/directorio/34006), and we are working on the implementation of a formal verification system of a natural language dataset in Spanish. This approach is based on [formal semantics](https://eecoppock.info/bootcamp/Invitation_to_formal_semantics-2022Jan18.pdf), and the goal is to test if methods from formal verification could help NLP practitioners imbue their models with semantic information from the texts.
+I am currently being advised by [Dr. Gemma Bel Enguix](https://scholar.google.com/citations?hl=en&user=RXWYz10AAAAJ), and co-advised by [Dr. Karla Ramírez Pulido](https://www.fciencias.unam.mx/directorio/34006), and we are working on the implementation of a formal verification system of a natural language dataset in Mexican Spanish. This approach is based on [formal semantics](https://eecoppock.info/bootcamp/Invitation_to_formal_semantics-2022Jan18.pdf), and the goal is to test if methods from formal verification could help NLP practitioners imbue their models with semantic information from the texts.
 
 Also, I am currently a consultant for the University of Arizona. In collaboration with by Dr. [Javier Osorio](https://www.javierosorio.net) and his team, I am implementing various neural classifiers aimed at classifying corpora of organised crime in El Salvador, Guatemala, Honduras and Mexico.
 
-I will be starting my PhD in Fall 2023 at CU Boulder under the supervision of Dr. [María-Leonor Pacheco](https://scholar.google.com/citations?hl=en&user=uKhleBwAAAAJ) and Dr. [Alexis Palmer](https://scholar.google.com/citations?hl=en&user=NVxAbD8AAAAJ).
+I will be starting the PhD in Computer Science program next Fall of 2023 at CU Boulder under the supervision of Dr. [María-Leonor Pacheco](https://scholar.google.com/citations?hl=en&user=uKhleBwAAAAJ) and Dr. [Alexis Palmer](https://scholar.google.com/citations?hl=en&user=NVxAbD8AAAAJ).
 
 I am very **interested in** D&I in AI, data engineering, neuro-symbolic approaches for machine learning, computational sociolinguistics and computational social science.
 
