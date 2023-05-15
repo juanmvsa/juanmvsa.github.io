@@ -3,6 +3,12 @@ layout: page
 title: other work 🦹🏽‍♂️
 permalink: /other work🦹🏽‍♂️/
 ---
+## 2023
+
+- I'll be attending the Lisbon Machine Learning School 2023 next July.
+
+- Talk: "Hate speech detection using NLP techniques" at the Instituto de Investigaciones Matemáticas y en Sistemas, Universidad Nacional Autónoma de México (UNAM). *April 13th, 2023*
+
 ## 2022
 
 - **[Presenter](https://juanmvsa.github.io/docs/const_heterocorpus_gil.pdf)** of the *HeteroCorpus* at the Language Engineering Group, UNAM. *September 29th, 2022*
