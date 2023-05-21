@@ -5,7 +5,7 @@ permalink: /other work🦹🏽‍♂️/
 ---
 ## 2023
 
-- I will be an **attending student** at The 34th European Summer School in Logic, Language and Information ([ESSLLI 2023](<https://esslli.eu/>)) thanks to a grant provided to me by the Asssociation for Symbolic Logic.
+- I will be an **attending student** at The 34th European Summer School in Logic, Language and Information ([ESSLLI 2023](<https://esslli.eu/>)) thanks to a grant provided to me by the Association for Symbolic Logic.
 
 - I will be an **attending student** at The 13th Lisbon Machine Learning School ([LxMLS 2023](<http://lxmls.it.pt/2023/>)) thanks to a grant provided to me by Google, Co:here, and DeepMind.
 
