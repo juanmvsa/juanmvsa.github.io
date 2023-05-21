@@ -10,7 +10,7 @@ I am currently being advised by [Dr. Gemma Bel Enguix](https://scholar.google.co
 
 Also, I am currently a consultant for the University of Arizona. In collaboration with by Dr. [Javier Osorio](https://www.javierosorio.net) and his team, I am implementing and testing the performance of various large language models classification tasks using corpora related to the organised crime in El Salvador, Guatemala, Honduras and Mexico.
 
-I will be starting the PhD in Computer Science program next Fall of 2023 at CU Boulder under the supervision of Dr. [María-Leonor Pacheco](https://scholar.google.com/citations?hl=en&user=uKhleBwAAAAJ) and Dr. [Alexis Palmer](https://scholar.google.com/citations?hl=en&user=NVxAbD8AAAAJ).
+Next Fall, I will be starting the PhD program in Computer Science at CU Boulder Colorado under the supervision of Dr. [María-Leonor Pacheco](https://scholar.google.com/citations?hl=en&user=uKhleBwAAAAJ) and Dr. [Alexis Palmer](https://scholar.google.com/citations?hl=en&user=NVxAbD8AAAAJ). Furthermore, I will join the Boulder Language and Social Technologies research group ([BLAST](<https://blast-cu.github.io/>)).
 
 I am very **interested in** D&I in AI, data engineering, neuro-symbolic approaches for machine learning, computational sociolinguistics and computational social science.
 
