@@ -5,11 +5,9 @@ permalink: /other work🦹🏽‍♂️/
 ---
 ## 2023
 
-- I will be starting the **PhD program in CS** at CU Boulder Colorado next Fall under the supervision of 
+- I will be an **attending student** at The 34th European Summer School in Logic, Language and Information ([ESSLLI 2023](<https://esslli.eu/>)) thanks to a grant provided to my by the Asssociation for Symbolic Logic.
 
-- I will be an **attending student** at The 34th European Summer School in Logic, Language and Information ([ESSLLI 2023](<https://esslli.eu/>)).
-
-- I will be an **attending student** at The 13th Lisbon Machine Learning School ([LxMLS 2023](<http://lxmls.it.pt/2023/>)).
+- I will be an **attending student** at The 13th Lisbon Machine Learning School ([LxMLS 2023](<http://lxmls.it.pt/2023/>)) thanks to a grant provided to me by Google, Co:here, and DeepMind.
 
 - **Talk**: *Hate speech detection using NLP techniques* at the Instituto de Investigaciones Matemáticas y en Sistemas (IIMAS), Universidad Nacional Autónoma de México (UNAM). *April 13th, 2023*
 
