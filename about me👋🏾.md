@@ -8,7 +8,7 @@ I am Juan Vásquez (he/him), a 2nd-year **MsC student in Computer Science with s
 
 I am currently being advised by [Dr. Gemma Bel Enguix](https://scholar.google.com/citations?hl=en&user=RXWYz10AAAAJ), and co-advised by [Dr. Karla Ramírez Pulido](https://www.fciencias.unam.mx/directorio/34006), and we are working on the implementation of a formal verification system of a natural language dataset designed for LBGT+Phobia detection in Mexican Spanish. This approach is based on the literature in formal semantics; in particular in the work of  [Coppock et al.](https://eecoppock.info/bootcamp/Invitation_to_formal_semantics-2022Jan18.pdf), and our goal is to test if methods from formal verification could help NLP practitioners imbue their models with semantic information from their corpora.
 
-Also, I am currently a consultant for the University of Arizona. In collaboration with by Dr. [Javier Osorio](https://www.javierosorio.net) and his team, I am implementing and testing various neural classifiers on corpora of organised crime in El Salvador, Guatemala, Honduras and Mexico.
+Also, I am currently a consultant for the University of Arizona. In collaboration with by Dr. [Javier Osorio](https://www.javierosorio.net) and his team, I am implementing and testing the performance of various large language models classification tasks using corpora related to the organised crime in El Salvador, Guatemala, Honduras and Mexico.
 
 I will be starting the PhD in Computer Science program next Fall of 2023 at CU Boulder under the supervision of Dr. [María-Leonor Pacheco](https://scholar.google.com/citations?hl=en&user=uKhleBwAAAAJ) and Dr. [Alexis Palmer](https://scholar.google.com/citations?hl=en&user=NVxAbD8AAAAJ).
 
