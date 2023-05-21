@@ -12,8 +12,6 @@ Also, I am currently a consultant for the University of Arizona. In collaboratio
 
 Next Fall, I will be starting the PhD program in Computer Science at CU Boulder Colorado under the supervision of Dr. [María-Leonor Pacheco](https://scholar.google.com/citations?hl=en&user=uKhleBwAAAAJ) and Dr. [Alexis Palmer](https://scholar.google.com/citations?hl=en&user=NVxAbD8AAAAJ). Furthermore, I will join the Boulder Language and Social Technologies research group ([BLAST](<https://blast-cu.github.io/>)).
 
-I am very **interested in** D&I in AI, data engineering, neuro-symbolic approaches for machine learning, computational sociolinguistics and computational social science.
-
 ---
 
 In the past, I have worked on:
