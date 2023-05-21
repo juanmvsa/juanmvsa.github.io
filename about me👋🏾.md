@@ -8,9 +8,9 @@ I am Juan Vásquez (he/him), a 2nd-year **MsC student in Computer Science with s
 
 I am currently advised by [Dr. Gemma Bel Enguix](https://scholar.google.com/citations?hl=en&user=RXWYz10AAAAJ), and co-advised by [Dr. Karla Ramírez Pulido](https://www.fciencias.unam.mx/directorio/34006). We are working on the implementation of a formal verification system of a natural language dataset designed for LBGT+Phobia detection in Mexican Spanish. This approach is based on the literature in formal semantics; in particular in the work of  [Coppock et al.](https://eecoppock.info/bootcamp/Invitation_to_formal_semantics-2022Jan18.pdf), and our goal is to test if methods from formal verification could help NLP practitioners imbue their large language models with semantic information from their corpora.
 
-Also, I am currently a consultant for the University of Arizona. In collaboration with by Dr. [Javier Osorio](https://www.javierosorio.net) and his team, I am implementing and testing the performance of various large language models on classification tasks using corpora related to the organised crime in El Salvador, Guatemala, Honduras and Mexico.
+Also, I am currently a consultant for the University of Arizona. In collaboration with by [Dr. Javier Osorio](https://www.javierosorio.net) and his team, I am implementing and testing the performance of various large language models on classification tasks using corpora related to the organised crime in El Salvador, Guatemala, Honduras and Mexico.
 
-Next Fall, I will be starting the PhD program in Computer Science at CU Boulder Colorado under the supervision of Dr. [María-Leonor Pacheco](https://scholar.google.com/citations?hl=en&user=uKhleBwAAAAJ) and Dr. [Alexis Palmer](https://scholar.google.com/citations?hl=en&user=NVxAbD8AAAAJ). Furthermore, I will join the Boulder Language and Social Technologies research group ([BLAST](<https://blast-cu.github.io/>)).
+Next Fall, I will be starting the PhD program in Computer Science at CU Boulder Colorado under the supervision of [Dr. María-Leonor Pacheco](https://mlpacheco.github.io/) and [Dr. Alexis Palmer](https://www.colorado.edu/linguistics/alexis-palmer). Furthermore, I will join the Boulder Language and Social Technologies research group ([BLAST](<https://blast-cu.github.io/>)).
 
 ---
 
