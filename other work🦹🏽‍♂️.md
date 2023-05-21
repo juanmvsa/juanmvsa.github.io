@@ -5,7 +5,11 @@ permalink: /other work🦹🏽‍♂️/
 ---
 ## 2023
 
-- I will be an **attending student** at the Lisbon Machine Learning School 2023 next July.
+- I will be starting the **PhD program in CS** at CU Boulder Colorado next Fall under the supervision of 
+
+- I will be an **attending student** at The 34th European Summer School in Logic, Language and Information ([ESSLLI 2023](<https://esslli.eu/>)).
+
+- I will be an **attending student** at The 13th Lisbon Machine Learning School ([LxMLS 2023](<http://lxmls.it.pt/2023/>)).
 
 - **Talk**: *Hate speech detection using NLP techniques* at the Instituto de Investigaciones Matemáticas y en Sistemas (IIMAS), Universidad Nacional Autónoma de México (UNAM). *April 13th, 2023*
 
