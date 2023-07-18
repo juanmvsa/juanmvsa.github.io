@@ -4,6 +4,10 @@ title: publications 🗞
 permalink: /publications🗞/
 ---
 
+## 2023
+
+- [HOMO-MEX: A Mexican Spanish Annotated Corpus for LGBT+ phobia Detection on Twitter](https://aclanthology.org/2023.woah-1.20.pdf). Juan Vásquez, Scott Andersen, Gemma Bel-Enguix, Helena Gómez-Adorno, Sergio-Luis Ojeda-Trueba. 2023. The 7th Workshop on Online Abuse and Harms (WOAH), page 202, Toronto, Canada.
+
 
 ## 2022
 
