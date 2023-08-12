@@ -5,9 +5,9 @@ permalink: /other work🦹🏽‍♂️/
 ---
 ## 2023
 
-- I will be an **attending student** at The 34th European Summer School in Logic, Language and Information ([ESSLLI 2023](<https://esslli.eu/>)).
+- **Attending student** at The 34th European Summer School in Logic, Language and Information ([ESSLLI 2023](<https://esslli.eu/>)).
 
--- **[Attending student](https://juanmvsa.github.io/docs/lxmls2023.pdf)** at the 13th Lisbon Machine Learning School. *July 14th-20th, 2023*.
+- **[Attending student](https://juanmvsa.github.io/docs/lxmls2023.pdf)** at the 13th Lisbon Machine Learning School. *July 14th-20th, 2023*.
 
 - **Talk**: *The State of NLP in Latin America* at [Queer in AI @ ACL 2023 Workshop](https://www.queerinai.com/acl-2023).
 

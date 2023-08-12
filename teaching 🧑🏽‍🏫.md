@@ -4,6 +4,9 @@ title: teaching 🧑🏽‍🏫
 permalink: /teaching🧑🏽‍🏫/
 ---
 
+## 2023
+
+- Introduction to Programming with Python - Preparatoria Iberoamericana (January 2023 - July 2023).
 
 ## 2022
 
