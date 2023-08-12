@@ -5,7 +5,7 @@ permalink: /other work🦹🏽‍♂️/
 ---
 ## 2023
 
-- **Attending student** at The 34th European Summer School in Logic, Language and Information ([ESSLLI 2023](<https://esslli.eu/>)).
+- **Attending student** at The 34th European Summer School in Logic, Language and Information ([ESSLLI 2023](<https://esslli.eu/>)). *July 31st - August 11st, 2023*.
 
 - **[Attending student](https://juanmvsa.github.io/docs/lxmls2023.pdf)** at the 13th Lisbon Machine Learning School. *July 14th-20th, 2023*.
 
