@@ -15,7 +15,7 @@ permalink: /publications🗞/
 
 - Bel-Enguix, Gemma, Gerardo Sierra, Helena Gómez-Adorno, Juan-Manuel Torres-Moreno Jesus-German Ortiz-Barajas†, and **Juan Vásquez†**. [Overview of PAR-MEX at Iberlef 2022: Paraphrase Detection in Spanish Shared Task](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IoQWQakAAAAJ&sortby=pubdate&citation_for_view=IoQWQakAAAAJ:UeHWp8X0CEIC). Procesamiento del Lenguaje Natural 69 (2022): 255-263. † equal contribution.
 
-- Enguix, Gemma Bel, Helena Gómez-Adorno, Karla Mendoza, Grigori Sidorov, and; **Juan Vásquez**. [La\# felicidad en Twitter:¿ qué representa realmente?](https://linguamatica.com/index.php/linguamatica/article/view/342/481). Linguamatica 14, no. 1 (2022): 3-15.
+- Enguix, Gemma Bel, Helena Gómez-Adorno, Karla Mendoza, Grigori Sidorov, and; **Juan Vásquez**. [La \#felicidad en Twitter: ¿qué representa realmente?](https://linguamatica.com/index.php/linguamatica/article/view/342/481). Linguamatica 14, no. 1 (2022): 3-15.
 
 - **Vásquez, Juan**, Gemma Bel-Enguix, Scott Thomas Andersen, and Sergio-Luis Ojeda-Trueba. [Heterocorpus: A corpus for heteronormative language detection](https://aclanthology.org/2022.gebnlp-1.23/). In Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing (GeBNLP), pp. 225-234. 2022.
 
