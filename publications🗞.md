@@ -4,6 +4,10 @@ title: publications 🗞
 permalink: /publications🗞/
 ---
 
+## 2024
+
+- Osorio, Javier, and **Juan Vásquez**. [Classifying Organized Criminal Violence in Mexico using ML and LLMs.](https://aclanthology.org/2023.case-1.1/) *In Proceedings of the 6th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text*, pp. 1-10. 2023.
+
 ## 2023
 
 - Bel-Enguix, Gemma, Helena Gómez-Adorno, Gerardo Sierra, **Juan Vásquez**, Scott Thomas Andersen, and Sergio Ojeda-Trueba. [Overview of HOMO-MEX at Iberlef 2023: Hate speech detection in Online Messages directed Towards the MEXican Spanish speaking LGBTQ+ population](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6566). Procesamiento del Lenguaje Natural 71 (2023): 361-370.
@@ -21,4 +25,4 @@ permalink: /publications🗞/
 
 ## 2021
 
-- **Vásquez, Juan**, Helena Gómez-Adorno, and Gemma Bel-Enguix. [Bert-based Approach for Sentiment Analysis of Spanish Reviews from TripAdvisor](http://ceur-ws.org/Vol-2943/restmex_paper6.pdf). In IberLEF@ SEPLN, pp. 165-170. 2021.
+- **Vásquez, Juan**, Helena Gómez-Adorno, and Gemma Bel-Enguix. [Bert-based Approach for Sentiment Analysis of Spanish Reviews from TripAdvisor](http://ceur-ws.org/Vol-2943/restmex_paper6.pdf). *In IberLEF@ SEPLN, pp. 165-170. 2021.
